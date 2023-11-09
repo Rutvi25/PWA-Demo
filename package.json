@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "pwa-cra-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
